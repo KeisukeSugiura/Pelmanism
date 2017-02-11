@@ -21,4 +21,4 @@ electron v1.4.15
 
 ## 利用素材
 - 無料素材倶楽部  
- > http://sozai.7gates.net/
+  http://sozai.7gates.net/
